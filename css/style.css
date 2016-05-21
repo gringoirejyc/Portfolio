@@ -1,11 +1,12 @@
- div{
+div {
      width:100%;     
 }
 
 
- container {
-    display: flex;
-    flex-wrap: wrap;
+.container {
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .row{
@@ -41,7 +42,7 @@
 }
 
 
-.h12{
+h2 {
     font-size: 200%;
     text-align: left;
     padding-left: 10px;
@@ -59,7 +60,7 @@
     
 }
 
- img{
+img {
      max-width: 100%;
      height: auto;
 }
@@ -68,6 +69,10 @@
 }
 .margin-right-10{
      margin-right: 10px;
+ }
+ 
+ hr {
+     color:#7d97ad;
  }
 
 @media screen and (max-width: 750px){
