@@ -12,4 +12,7 @@ This portfolio website project is a part of Udacity Web Developer Nanodegree - B
 * Responsive website fits both PC&Mobile devices
 * Grid System
 
+##Demo
+You can find demo i upload by my personal website [here](http://www.ji-yicheng.com)
+
 ##Welcome any suggestions & advices
