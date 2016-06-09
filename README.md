@@ -1,5 +1,5 @@
 # Portfolio
-Part of Udacity Full Stack Web Developer Course
+Part of Udacity Full Stack Web Developer Course and now become my personal website
 
 ##Summary##
 This portfolio website project is a part of Udacity Web Developer Nanodegree - Build a portfolio project. 
